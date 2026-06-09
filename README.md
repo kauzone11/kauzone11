@@ -1,18 +1,11 @@
+```md
 <div align="center">
 
-<pre>
-+--------------------------------+
-|                                |
-|          KAUÃ ARAÚJO           |
-|                                |
-|   Economics  |  Innovation    |
-|   Digital Tools  |  Strategy  |
-|                                |
-+--------------------------------+
-</pre>
+```txt
+kauzone11@github:~$ whoami
 
-[![Website](https://img.shields.io/badge/Website-ouseagency.com-black?style=flat-square)](https://ouseagency.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-kauzone11-181717?style=flat-square&logo=github)](https://github.com/kauzone11)
+Kauã Araújo
+Economics · Innovation · Digital Products · Strategy
 
 </div>
 
