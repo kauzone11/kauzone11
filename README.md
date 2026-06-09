@@ -1,14 +1,14 @@
 <div align="center">
 
 <pre>
-+------------------------------------------------+
-|                                                |
-|                 KAUÃ ARAÚJO                    |
-|                                                |
-|   Economics  |  Innovation  |  Digital Tools   |
-|   Strategic Communication  |  Applied Systems  |
-|                                                |
-+------------------------------------------------+
++--------------------------------+
+|                                |
+|          KAUÃ ARAÚJO           |
+|                                |
+|   Economics  |  Innovation    |
+|   Digital Tools  |  Strategy  |
+|                                |
++--------------------------------+
 </pre>
 
 [![Website](https://img.shields.io/badge/Website-ouseagency.com-black?style=flat-square)](https://ouseagency.com/)
@@ -21,18 +21,19 @@
 <pre>
 kauzone11/
 |-- about
-|   |-- based in Aracaju, Sergipe, Brazil
+|   |-- Aracaju, Sergipe, Brazil
 |   |-- economics student
 |   |-- founder at Agencia Ouse
-|   |-- innovation and technology transfer researcher
-|   `-- builder of applied digital products
+|   |-- innovation researcher
+|   |-- technology transfer
+|   `-- applied digital products
 |
 |-- current-work
 |   `-- open-impact-ej
-|       |-- transparent event impact studies
-|       |-- reproducible economic analysis
-|       |-- tools for junior enterprises
-|       `-- data, events and local development
+|       |-- event impact studies
+|       |-- reproducible analysis
+|       |-- junior enterprise tools
+|       `-- local development data
 |
 |-- areas-i-care-about
 |   |-- economics
@@ -49,8 +50,8 @@ kauzone11/
 |   |
 |   |-- communication
 |   |   |-- branding
-|   |   |-- institutional communication
-|   |   |-- public sector communication
+|   |   |-- institutional comms
+|   |   |-- public sector comms
 |   |   `-- content strategy
 |   |
 |   `-- technology
@@ -62,19 +63,19 @@ kauzone11/
 |
 |-- projects
 |   |-- open-impact-ej
-|   |   `-- open-source toolkit for event impact studies
+|   |   `-- event impact toolkit
 |   |
 |   |-- agencia-ouse
-|   |   `-- digital products, communication and tools
+|   |   `-- products and comms
 |   |
 |   |-- greedy-stars
-|   |   `-- ranking and statistics for Brawl Stars
+|   |   `-- Brawl Stars rankings
 |   |
 |   `-- innovation-research
-|       `-- notes and applied research workflows
+|       `-- research workflows
 |
 `-- principle
-    `-- build systems that help people understand,
+    `-- systems to understand,
         decide and act.
 </pre>
 
