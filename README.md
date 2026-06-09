@@ -29,7 +29,7 @@ I am especially interested in projects that turn fragmented information into use
 
 ---
 
-## Current work
+## Current Work
 
 ### Open Impact EJ
 
@@ -41,7 +41,7 @@ The project is designed to help junior enterprises, universities and institution
 
 ---
 
-## Areas I care about
+## Areas I Care About
 
 ```txt
 /
