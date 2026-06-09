@@ -1,10 +1,15 @@
 <div align="center">
 
-# Kauã Araújo
-
-**Economics · Innovation · Digital Products · Strategic Communication**
-
-Building tools that connect economic analysis, innovation management and practical digital products.
+<pre>
++------------------------------------------------+
+|                                                |
+|                 KAUÃ ARAÚJO                    |
+|                                                |
+|   Economics  |  Innovation  |  Digital Tools   |
+|   Strategic Communication  |  Applied Systems  |
+|                                                |
++------------------------------------------------+
+</pre>
 
 [![Website](https://img.shields.io/badge/Website-ouseagency.com-black?style=flat-square)](https://ouseagency.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-kauzone11-181717?style=flat-square&logo=github)](https://github.com/kauzone11)
@@ -13,72 +18,65 @@ Building tools that connect economic analysis, innovation management and practic
 
 ---
 
-## About
-
-I work at the intersection of **economics, innovation, digital products, strategic communication and applied tools**.
-
-My current focus is building practical systems for:
-
-- economic impact analysis;
-- innovation and technology transfer;
-- public and institutional communication;
-- market intelligence;
-- communities, events and organizations.
-
-I am especially interested in projects that turn fragmented information into useful dashboards, rankings, reports, workflows and decision-support tools.
-
----
-
-## Current Work
-
-### Open Impact EJ
-
-Open-source toolkit for transparent event economic impact studies.
-
-The project is designed to help junior enterprises, universities and institutions structure impact studies with more clarity, consistency and reproducibility.
-
-**Focus:** economics, data, events, local development and applied research.
-
----
-
-## Areas I Care About
-
-```txt
-/
-├── economics
-│   ├── economic impact
-│   ├── innovation management
-│   ├── regional development
-│   └── market intelligence
-│
-├── digital products
-│   ├── dashboards
-│   ├── data tools
-│   ├── automation
-│   └── user-facing platforms
-│
-├── communication
-│   ├── branding
-│   ├── institutional communication
-│   ├── public sector communication
-│   └── content strategy
-│
-└── technology
-    ├── TypeScript
-    ├── React / Next.js
-    ├── APIs
-    ├── data workflows
-    └── AI-assisted development
-```
-
----
-
-## Projects
-
-| Project | Focus | Status |
-| --- | --- | --- |
-| [Open Impact EJ](https://github.com/kauzone11/open-impact-ej) | Economic impact studies for events and institutions | In development |
-| [Ouse Agency](https://ouseagency.com/) | Digital products, communication and applied tools | Active |
+<pre>
+kauzone11/
+|-- about
+|   |-- based in Aracaju, Sergipe, Brazil
+|   |-- economics student
+|   |-- founder at Agencia Ouse
+|   |-- innovation and technology transfer researcher
+|   `-- builder of applied digital products
+|
+|-- current-work
+|   `-- open-impact-ej
+|       |-- transparent event impact studies
+|       |-- reproducible economic analysis
+|       |-- tools for junior enterprises
+|       `-- data, events and local development
+|
+|-- areas-i-care-about
+|   |-- economics
+|   |   |-- economic impact
+|   |   |-- innovation management
+|   |   |-- regional development
+|   |   `-- market intelligence
+|   |
+|   |-- digital-products
+|   |   |-- dashboards
+|   |   |-- data tools
+|   |   |-- automation
+|   |   `-- user-facing platforms
+|   |
+|   |-- communication
+|   |   |-- branding
+|   |   |-- institutional communication
+|   |   |-- public sector communication
+|   |   `-- content strategy
+|   |
+|   `-- technology
+|       |-- TypeScript
+|       |-- React / Next.js
+|       |-- APIs
+|       |-- data workflows
+|       `-- AI-assisted development
+|
+|-- projects
+|   |-- open-impact-ej
+|   |   `-- open-source toolkit for event impact studies
+|   |
+|   |-- agencia-ouse
+|   |   `-- digital products, communication and tools
+|   |
+|   |-- greedy-stars
+|   |   `-- ranking and statistics for Brawl Stars
+|   |
+|   `-- innovation-research
+|       `-- notes and applied research workflows
+|
+`-- principle
+    `-- build systems that help people understand,
+        decide and act.
+</pre>
 
 ---
 
