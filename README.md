@@ -71,7 +71,7 @@ I am especially interested in projects that turn fragmented information into use
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [Open Impact EJ](https://github.com/kauzone11/open-impact-ej) | Economic impact studies for events and institutions | In development |
+| [Atlas Impact](https://atlas.ouseagency.com/) | Economic impact studies for events and institutions | Startup In development |
 | [Ouse Agency](https://ouseagency.com/) | Digital products, communication and applied tools | Active |
 
 ---
