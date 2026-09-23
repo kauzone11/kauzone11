@@ -6,7 +6,8 @@
 
 Building tools that connect economic analysis, innovation management and practical digital products.
 
-[![Website](https://img.shields.io/badge/Website-ouseagency.com-black?style=flat-square)](https://ouseagency.com/)
+[![Ouse Agency](https://img.shields.io/badge/Agência-ouseagency.com-black?style=flat-square)](https://ouseagency.com/)
+[![Atlas Impact](https://img.shields.io/badge/Startup-atlas.ouseagency.com-black?style=flat-square)](https://atlas.ouseagency.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-kauzone11-181717?style=flat-square&logo=github)](https://github.com/kauzone11)
 
 </div>
@@ -29,13 +30,6 @@ I am especially interested in projects that turn fragmented information into use
 
 ---
 
-## Current Work
-
-### Open Impact EJ
-
-Open-source toolkit for transparent event economic impact studies.
-
-The project is designed to help junior enterprises, universities and institutions structure impact studies with more clarity, consistency and reproducibility.
 
 **Focus:** economics, data, events, local development and applied research.
 
