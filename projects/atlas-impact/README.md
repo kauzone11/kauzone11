@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../../assets/impact-hero.svg" width="100%" alt="Atlas Impact — plataforma de coleta, análise, dashboards e relatórios para estudos de impacto econômico" />
+<img src="../../assets/impact-hero-v2.svg" width="100%" alt="Atlas Impact — plataforma de coleta, análise, dashboards e relatórios para estudos de impacto econômico" />
 
 <br/>
 
