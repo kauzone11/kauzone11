@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" width="100%" alt="Kauã Araújo — Economia, inteligência artificial, dados e produtos digitais" />
+<img src="assets/profile-hero-v2.svg" width="100%" alt="Kauã Araújo — Economia, inteligência artificial, dados e produtos digitais" />
 
 <br/>
 
