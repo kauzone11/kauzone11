@@ -20,12 +20,12 @@ Meu trabalho também envolve **estratégia, comunicação e empreendedorismo**. 
 
 ## Projetos em destaque
 
-<a href="projects/atlas-impact/README.md"><img src="assets/impact-hero.svg" width="100%" alt="Abrir estudo de caso Atlas Impact" /></a>
+<a href="projects/atlas-impact/README.md"><img src="assets/impact-hero-v2.svg" width="100%" alt="Abrir estudo de caso Atlas Impact" /></a>
 
 **[Atlas Impact — ver o projeto](projects/atlas-impact/README.md)**  
 Software de coleta, análise de dados, dashboards e relatórios de impacto econômico. Utilizado em estudos associados à **Maratona de Aracaju** e ao **Encontro Nacional de Empresas Juniores (ENEJ)**. Em fase de pré-incubação para se tornar startup.
 
-<a href="projects/atlas-innove/README.md"><img src="assets/innove-hero.svg" width="100%" alt="Abrir estudo de caso Atlas Innove" /></a>
+<a href="projects/atlas-innove/README.md"><img src="assets/innove-hero-v2.svg" width="100%" alt="Abrir estudo de caso Atlas Innove" /></a>
 
 **[Atlas Innove — ver o projeto](projects/atlas-innove/README.md)**  
 Plataforma de acompanhamento de políticas públicas de inovação, rastreabilidade de investimentos e análise de resultados. **1º lugar em Transformação Digital e Eficiência da Gestão Pública**, em premiação da Fapitec/SE.
