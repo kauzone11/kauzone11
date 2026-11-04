@@ -12,6 +12,8 @@
 
 ### Olá, sou o Kauã.
 
+<img align="right" width="155" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="GIF animado ao lado da apresentação" />
+
 Estudo **Ciências Econômicas na Universidade Federal de Sergipe (UFS)** e trabalho na interseção de **inteligência artificial, dados, inovação e desenvolvimento de produtos digitais**.
 
 Gosto de transformar problemas concretos em ferramentas que as pessoas realmente consigam usar — desde a ideia e o desenho da experiência até o produto funcionando.
