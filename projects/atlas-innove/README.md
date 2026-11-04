@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../../assets/innove-hero.svg" width="100%" alt="Atlas Innove — rastreabilidade e inteligência para políticas públicas de inovação" />
+<img src="../../assets/innove-hero-v2.svg" width="100%" alt="Atlas Innove — rastreabilidade e inteligência para políticas públicas de inovação" />
 
 <br/>
 
